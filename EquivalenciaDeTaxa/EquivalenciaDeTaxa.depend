@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697744978 source:c:\users\lgseven\desktop\trabalho calculadora financeira\equivalenciadetaxa\main.c
+	<stdio.h>
+	<stdlib.h>
+
